@@ -56,5 +56,5 @@ SpectralSCI                  Spectral SC      400 ItalicStyle   NormalStretch
 ## Usage
 
 ```sh
-heroku buildpacks:set https://github.com/gremax/heroku-buildpack-google-fonts
+heroku buildpacks:set https://github.com/blueskybroadcast/heroku-buildpack-google-fonts
 ```
